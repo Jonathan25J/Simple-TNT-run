@@ -1,2 +1,3 @@
-# Simple-TNT-run
-A Simple Minecraft TNT run plugin
+# Minecraft simple TNT run plugin
+
+made by Jonaqhan
