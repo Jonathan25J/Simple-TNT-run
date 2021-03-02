@@ -1,9 +1,0 @@
-name: TntRun
-version: 1.0
-author: Jonaqhan
-main: jonaqhan.TntRun.Main
-description: possible to play tnt run with this plugin
-
-commands:
-  tntrun:
-   description: enable or disable TNT run
